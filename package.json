@@ -1,0 +1,9 @@
+{
+  "name": "makefun-core-forge",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "test": "node tests/unit.mjs && node tests/e2e.mjs"
+  }
+}
